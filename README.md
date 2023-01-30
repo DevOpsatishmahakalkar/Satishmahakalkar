@@ -1,6 +1,6 @@
 
 
-    
+
 
 <h1 align="center">Hi 👋, I'm Satishmahakalkar</h1>
 <h3 align="center">A passionate AWS and DevOps Engineer from India</h3>
@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satishmahakalkar&label=Profile%20views&color=0e75b6&style=flat" alt="satishmahakalkar" /> </p>
 
-- 🌱 I’m currently learning **Networking,Linux,aws,Devops,AI**
+- 🌱 I’m currently learning **Networking,Linux,Aws,Devops,AI**
 
 - 📫 How to reach me **devlopersatish36@gmail.com**
 
