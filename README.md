@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satishmahakalkar</h1>
 <h3 align="center">A passionate AWS and DevOps Engineer from India</h3>
 
-<img align="right" alt="coding" width="500" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/tony-stark.gif">
+<img align="right" alt="coding" width="480" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/tony-stark.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satishmahakalkar&label=Profile%20views&color=0e75b6&style=flat" alt="satishmahakalkar" /> </p>
 
