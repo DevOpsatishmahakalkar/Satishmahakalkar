@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satishmahakalkar&label=Profile%20views&color=0e75b6&style=flat" alt="satishmahakalkar" /> </p>
 
-- 🌱 I’m currently learning **Networking,Linux,Aws,Devops,AI**
+- 🌱 I’m doing work **Networking,Linux,Aws,Devops,AI**
 
 - 📫 How to reach me **devlopersatish36@gmail.com**
 
