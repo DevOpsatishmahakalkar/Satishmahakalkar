@@ -7,7 +7,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
-<img align="right" alt="coding" width="480" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/06/tony-stark.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satishmahakalkar&label=Profile%20views&color=0e75b6&style=flat" alt="satishmahakalkar" /> </p>
 
