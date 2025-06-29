@@ -20,7 +20,7 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/devopssatish/" target="_blank">
+  <a href="https://www.linkedin.com/in/satishmahakalkardevops/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:developersatish96@gmail.com" target="_blank">
