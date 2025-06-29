@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **Cloud infrastructure automation using Terraform & AWS**
 - 🌱 Currently learning **AI integrations in DevOps workflows**
 - 💬 Ask me about **AWS, Jenkins, Docker, Linux, Git, CI/CD, Terraform, Kubernetes**
-- 📫 Reach me at **developersatish96@gmail.com**
+- 📫 Reach me at **satishmahakalkar143@gmail.com/developersatish96@gmail.com**
 - ⚡ Fun fact: *"I debug more than I eat!"*
 
 ---
