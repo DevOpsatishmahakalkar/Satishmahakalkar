@@ -12,7 +12,7 @@
 
 - 🌱 I’m doing work **Networking,Linux,Aws,Devops,AI**
 
-- 📫 How to reach me **devlopersatish36@gmail.com**
+- 📫 How to reach me **satishmahakalkar143@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
 
