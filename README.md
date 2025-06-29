@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=DevOps+Engineer;AWS+Certified;Python+%7C+Bash+%7C+Linux;Terraform+%7C+Docker+%7C+Kubernetes;Cloud+Automation+%7C+CI%2FCD+Pipelines" alt="Typing SVG" />
 </p>
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 ---
 
 ### 👨‍💻 About Me
@@ -56,15 +58,14 @@
 
 ---
 
-### 🧠 Fun Projects
+### 🚀 Highlight Projects
 - 📦 GitHub Actions CI/CD Pipelines  
-- ☁️ Serverless deployments with AWS Lambda  
-- 🛠️ Dockerized Microservices  
-- 🔐 IAM Role Automation Scripts  
-- 📊 Monitoring setup with Prometheus + Grafana  
+- ☁️ AWS Lambda & API Gateway  
+- 🐳 Dockerized Applications  
+- 🔐 IAM & Security Automation  
+- 📊 Monitoring with Prometheus & Grafana  
 
 ---
 
 ### 🙌 Support & Collaboration
-If you liked my profile, feel free to star ⭐ my repositories and connect on LinkedIn.
-
+If you liked my profile, feel free to ⭐ star my repos and follow. Let’s connect and grow together 🚀  
